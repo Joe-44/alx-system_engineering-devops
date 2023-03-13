@@ -1,7 +1,11 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 chown vincent
 chgrp staff
 =======
 chown vincent:staff ~
 >>>>>>> 92143cdf81f2f96f2a45d49c80d151e66e2546cf
+=======
+chown vincent:staff *
+>>>>>>> ebf06399a8fd9fd1aa60d93f07552e8fd91bda7f
